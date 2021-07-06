@@ -1,0 +1,37 @@
+alumnos:
+- item_id: 1
+  matricula: 91810027
+  nombre: Jorge Antonio
+  apaterno: Rodriguez
+  amaterno: de la Torre
+  edad: 21
+  correo: mecosde@gmail.com
+  telefono: 9612284428
+  carrera: IRIyC
+- item_id: 2
+  matricula: 91810232
+  nombre: Jose Daniel
+  apaterno: Cruz
+  amaterno: Luna
+  edad: 21
+  correo: sprayerjose@gmail.com
+  telefono: 9191233278
+  carrera: IRIyC
+- item_id: 3
+  matricula: 91810371
+  nombre: "Josu\xE9 Jonathan"
+  apaterno: "P\xE9rez"
+  amaterno: "Gonz\xE1lez"
+  edad: 23
+  correo: Josuegonza0314@gmail.com
+  telefono: 9191109773
+  carrera: IRIyC
+- item_id: 4
+  matricula: 91810143
+  nombre: Oscar
+  apaterno: Lopez
+  amaterno: Gomez
+  edad: 20
+  correo: oscarlopezal@laselva.edu.mx
+  telefono: 9191331534
+  carrera: IRIyC
